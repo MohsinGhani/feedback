@@ -1,0 +1,15 @@
+{
+    "btnText" : "Feedback",
+    "happy": {
+        "title" : "I like something",
+        "question": "WHAT DID YOU LIKE?"
+    },
+    "idea" : {
+        "title" : "I have an idea",
+        "question": "WHAT IS YOUR SUGGESTION?"
+    },
+    "sad" : {
+        "title" : "Something's not working",
+        "question": "WHAT DID YOU FIND?"
+    }
+}
